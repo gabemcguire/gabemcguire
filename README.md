@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Gabe McGuire
+# Hi, I'm Gabe McGuire
 
 ## 💼 Software Developer at Michigan DTMB
 
