@@ -6,9 +6,8 @@ I'm a passionate software engineer with a diverse skill set and a love for creat
 
 ### 🚀 What I do
 
-- 💻 Full-stack development with a focus on React
+- 🎨 Frontend development with Vue.js and React
 - 🐍 Backend development using Django or ASP.NET
-- 🎨 Frontend magic with Vue.js and React
 - 🔧 Robust application development in JavaScript/TypeScript, Python, C++, and C#
 
 ### 🔭 Current Projects
